@@ -1,0 +1,9 @@
+{
+  "name": "Workout app",
+  "short_name": "Workout",
+  "description": "Generate a daily workout.",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
